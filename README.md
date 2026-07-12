@@ -1,7 +1,7 @@
 # 👋 Hey, I'm svalked
 
 <p align="center">
-  <img src="assets/konata.jpg" alt="Banner">
+  <img src="assets/konata.webp" alt="Banner">
 </p>
 
 I'm a hobby developer from Belarus who enjoys building software for Linux.
