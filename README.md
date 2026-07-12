@@ -91,7 +91,7 @@ When I'm not coding, I'm usually:
 
 ## 📫 Thanks for visiting!
 Support Me!:https://steamcommunity.com/tradeoffer/new/?partner=1829486540&token=Df_lSIGx
-My Wishlist:
+My Wishlist: ThinkPad (any), games: payday and oneshot, rx 6800, My own server
 <p align="center">
   <img src="assets/wishlist.png" alt="Banner">
 </p>
