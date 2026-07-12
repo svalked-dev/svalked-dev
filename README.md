@@ -90,7 +90,12 @@ When I'm not coding, I'm usually:
 - 🎵 Listening to music while coding
 
 ## 📫 Thanks for visiting!
-
+Support Me!:https://steamcommunity.com/tradeoffer/new/?partner=1829486540&token=Df_lSIGx
+My Wishlist:
+<p align="center">
+  <img src="assets/wishlist.png" alt="Banner">
+</p>
 If one of my projects helps you, that's awesome.
 
 Have a nice day and happy coding! 🌴
+
