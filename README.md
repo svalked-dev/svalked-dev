@@ -87,7 +87,7 @@ When I'm not coding, I'm usually:
 - 🐧 Exploring Linux
 - ⚡ Trying new tools
 - 🛠 Improving old projects
-- 🎵 Listening to music while coding
+- 🎵 Listening to music while coding (Eminem/Linkin Park)
 
 ## 📫 Thanks for visiting!
 Support Me!:https://steamcommunity.com/tradeoffer/new/?partner=1829486540&token=Df_lSIGx
