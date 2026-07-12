@@ -12,7 +12,7 @@ I don't chase trends or try to make everything "enterprise". I write software be
 
 ## 🐧 Operating System
 <p align="center">
-  <img src="assets/linux.jpg" alt="Banner">
+  <img src="assets/image.jpg" alt="Banner">
 </p>
 
 Linux is my primary and only development platform.
