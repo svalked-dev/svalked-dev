@@ -11,6 +11,9 @@ I like writing programs that are small, fast, simple and useful. Most of my proj
 I don't chase trends or try to make everything "enterprise". I write software because I enjoy the process and because every project teaches me something.
 
 ## 🐧 Operating System
+<p align="center">
+  <img src="assets/linux.jpg" alt="Banner">
+</p>
 
 Linux is my primary and only development platform.
 
