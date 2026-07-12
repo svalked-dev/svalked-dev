@@ -95,6 +95,7 @@ My Wishlist: ThinkPad (any), games: payday and oneshot, rx 6800, My own server
 <p align="center">
   <img src="assets/wishlist.png" alt="Banner">
 </p>
+[![Steam Games](https://badges.pages.dev/steam/games/YOUR_STEAM_ID)](https://steamcommunity.com/id/svalked)
 If one of my projects helps you, that's awesome.
 
 Have a nice day and happy coding! 🌴
