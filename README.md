@@ -95,7 +95,9 @@ My Wishlist: ThinkPad (any), games: payday and oneshot, rx 6800, My own server
 <p align="center">
   <img src="assets/wishlist.png" alt="Banner">
 </p>
-![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+<a href="https://steamcommunity.com/id/svalked" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #1b2838; color: white; border-radius: 8px; text-decoration: none; font-weight: bold; border: 1px solid #66c0f4;">
+  🎮 My Steam Profile
+</a>
 If one of my projects helps you, that's awesome.
 
 Have a nice day and happy coding! 🌴
